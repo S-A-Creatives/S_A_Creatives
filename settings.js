@@ -60,7 +60,7 @@ global.UPLOAD_MAX = false
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
 global.DISABLE_INBOX = true 
 //👇 DISABLE inbox message send ඉන්බොක්ස් වැඩනොකරන බවට මැසේජ් එක යැවිම true or false 
-global.DISABLE_INBOX_MESSAGE_SEND = false
+global.DISABLE_INBOX_MESSAGE_SEND = true
 //👇 Pron Video Download 
 global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
@@ -81,15 +81,15 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94755158283'] 
+global.owner = ['94725156523'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  'DH Wizard With Elisa Bot' 
+global.ownernma =  'SA Creatives' 
 //👇 Sticker Author Name
-global.packname =  'DH Wizard With Elisa Bot' 
+global.packname =  'SA Creatives' 
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
